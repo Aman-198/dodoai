@@ -228,11 +228,6 @@ export function Contact() {
                   value: "dodo.ai.in11@gmail.com",
                 },
                 {
-                  icon: Phone,
-                  label: "Phone",
-                  value: "+91 9905899846",
-                },
-                {
                   icon: MapPin,
                   label: "Location",
                   value: "India (Remote-First)",
