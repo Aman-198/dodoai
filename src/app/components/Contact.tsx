@@ -225,12 +225,12 @@ export function Contact() {
                 {
                   icon: Mail,
                   label: "Email",
-                  value: "hello@dodoai.in",
+                  value: "dodo.ai.in11@gmail.com",
                 },
                 {
                   icon: Phone,
                   label: "Phone",
-                  value: "+91 98765 43210",
+                  value: "+91 9905899846",
                 },
                 {
                   icon: MapPin,
